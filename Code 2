@@ -6557,16 +6557,6 @@ campaignTrail_temp.answer_score_global_json = [
     },
     {
         "model": "campaign_trail.answer_score_global",
-        "pk": 1310,
-        "fields": {
-            "answer": 119,
-            "candidate": 16,
-            "affected_candidate": 16,
-            "global_multiplier": 0.01
-        }
-    },
-    {
-        "model": "campaign_trail.answer_score_global",
         "pk": 1314,
         "fields": {
             "answer": 120,
@@ -7053,6 +7043,16 @@ campaignTrail_temp.answer_score_global_json = [
             "candidate": 16,
             "affected_candidate": 16,
             "global_multiplier": -0.02
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 1489,
+        "fields": {
+            "answer": 117,
+            "candidate": 16,
+            "affected_candidate": 16,
+            "global_multiplier": 0.01
         }
     }
 ]
