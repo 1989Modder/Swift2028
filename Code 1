@@ -10,7 +10,7 @@ e = campaignTrail_temp;
 
             $(".container")[0].style.backgroundColor = "#08007a";
 
-            document.getElementById("header").src = "https://github.com/1989Modder/Swift2028/blob/main/YOLBannerAlt.png";
+            document.getElementById("header").src = "https://raw.githubusercontent.com/1989Modder/Swift2028/main/YOLBannerAlt.png";
 
             document.body.background = "../static/images/mlk.jpg";
 
