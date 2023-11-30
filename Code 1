@@ -239,6 +239,10 @@ var soundtracks = {
         name: "Soundgarden - Black Hole Sun",
         url: "https://ia800200.us.archive.org/18/items/107BlackHoleSun/1-07%20Black%20Hole%20Sun.mp3",
       },
+      {
+        name: "Taylor Swift - The Archer",
+        url: "https://ia601803.us.archive.org/18/items/taylor-swift-lover/05%20The%20Archer.mp3",
+      },
     ],
   },
 }
