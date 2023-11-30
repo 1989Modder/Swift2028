@@ -13,7 +13,7 @@ campaignTrail_temp.questions_json = [
         "pk": 93,
         "fields": {
             "priority": 0,
-            "description": "Do you want to discuss the April Revolution in your rallies, and if so, how?",
+            "description": "Do you want to discuss the April Revolution, which unseated Donald Trump and sent him to Saudi Arabia, in your rallies, and if so, how?",
             "likelihood": 1
         }
     },
@@ -4550,7 +4550,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 16,
             "state": 3,
-            "state_multiplier": 0.98
+            "state_multiplier": 1.02
         }
     },
     {
@@ -4613,7 +4613,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 16,
             "state": 10,
-            "state_multiplier": 0.85
+            "state_multiplier": 0.81
         }
     },
     {
@@ -4820,7 +4820,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 16,
             "state": 33,
-            "state_multiplier": 0.81
+            "state_multiplier": 0.77
         }
     },
     {
@@ -6412,7 +6412,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 729,
             "candidate": 16,
             "affected_candidate": 16,
-            "global_multiplier": 0.1
+            "global_multiplier": 0.01
         }
     },
     {
