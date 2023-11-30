@@ -4748,7 +4748,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 16,
             "state": 25,
-            "state_multiplier": 0.85
+            "state_multiplier": 0.8
         }
     },
     {
@@ -4766,7 +4766,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 16,
             "state": 27,
-            "state_multiplier": 0.85
+            "state_multiplier": 0.77
         }
     },
     {
@@ -4901,7 +4901,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 16,
             "state": 42,
-            "state_multiplier": 0.85
+            "state_multiplier": 0.81
         }
     },
     {
@@ -9449,7 +9449,7 @@ campaignTrail_temp.answer_feedback_json = [
     }
 ]
 
-campaignTrail_temp.candidate_image_url = "https://www.instyle.com/thmb/q_wZkS4X0hc7MM0VXun0OCbm08E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1236524091-1-0be5d575b7d54b25be658867e0284668.jpg";
+campaignTrail_temp.candidate_image_url = "https://www.onthisday.com/images/people/taylor-swift.jpg";
 campaignTrail_temp.running_mate_image_url = "https://upload.wikimedia.org/wikipedia/commons/6/65/Gretchen_Whitmer_%282021%29_%28cropped%29.jpg";
 campaignTrail_temp.candidate_last_name = "Swift";
 campaignTrail_temp.running_mate_last_name = "Whitmer";
@@ -9529,7 +9529,7 @@ campaignTrail_temp.jet_data = [{
     "banner_enabled": true,
     "banner_data": {
         "canName": "Swift",
-        "canImage": "https://www.instyle.com/thmb/q_wZkS4X0hc7MM0VXun0OCbm08E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1236524091-1-0be5d575b7d54b25be658867e0284668.jpg",
+        "canImage": "https://www.onthisday.com/images/people/taylor-swift.jpg",
         "runName": "Whitmer",
         "runImage": "https://upload.wikimedia.org/wikipedia/commons/6/65/Gretchen_Whitmer_%282021%29_%28cropped%29.jpg"
     },
